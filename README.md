@@ -15,4 +15,5 @@ It is a .dll made in C++ that you can inject into the game.
 
 - [[Youtube] - PlanetSide 2 - NoClip / Fly Hack](https://www.youtube.com/watch?v=RNmABZNeiSw "PlanetSide 2 - NoClip / Fly Hack")
 
-![ScreenShot](ScreenShot.png "ScreenShot")
+![ScreenShot](ScreenShot.jpg "ScreenShot")
+
